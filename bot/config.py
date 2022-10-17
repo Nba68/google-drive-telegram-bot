@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5757477796:AAEv08hRdzh7z-tpltjY7zaEYPZM2wXeB0Y"
     APP_ID = "26058511"
     API_HASH = "00a7615579b6f8de7cab11e48a732156"
-    DATABASE_URL = "ec2-44-195-132-31.compute-1.amazonaws.com"
+    DATABASE_URL = "postgresql://arxzzevtuyuowg:5346fb19b81f987dd5e72879bf0e20be2a39d94602aef3b0e15ba92ad09062c3@ec2-44-195-132-31.compute-1.amazonaws.com/dd7r9nos94cg94"
     SUDO_USERS = "645912649" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://rajatkalsotra.github.io"
     DOWNLOAD_DIRECTORY = "./downloads/"
